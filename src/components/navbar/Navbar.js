@@ -1,6 +1,5 @@
 import React from 'react';
 import 'bulma';
-import { Link, withRouter } from "react-router-dom";
 // // Get all "navbar-burger" elements
 // var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
 

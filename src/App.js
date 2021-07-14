@@ -5,7 +5,7 @@ import Wedding from './components/wedding/Wedding';
 import Prewedding from './components/prewedding/Prewedding';
 import Food from './components/food/Food'; 
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 function App() {
   return (
     <Router>
@@ -17,5 +17,4 @@ function App() {
     </Router>
   );
 }
-
 export default App;
