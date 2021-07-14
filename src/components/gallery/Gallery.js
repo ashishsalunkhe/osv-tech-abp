@@ -27,7 +27,7 @@ export default function Gallery(){
                                     <figure class="image is-3by2">
                                         <img src={wedding} alt='Wedding'/>                     
                                         <div class="overlay">
-                                        <Link to="/wedding">
+                                        <Link to="./wedding">
                                             <div class="text has-text-white">Wedding</div>
                                         </Link>
                                         </div>
@@ -46,7 +46,7 @@ export default function Gallery(){
                                  <figure class="image is-3by2">
                                     <img src={babyshoot} alt='Baby Shoots'/>                     
                                     <div class="overlay">
-                                    <Link to="/babyshoots">
+                                    <Link to="./babyshoots">
                                         <div class="text has-text-white">Baby Shoots</div>
                                     </Link>
                                     </div>
@@ -66,7 +66,9 @@ export default function Gallery(){
                                  <figure class="image is-3by1">
                                     <img src={engagement} alt='Engagement'/>                     
                                     <div class="overlay">
+                                    <Link to="./engagement">
                                         <div class="text has-text-white">Engagement</div>
+                                    </Link>
                                     </div>
                                 </figure>
                             </div> 
@@ -83,7 +85,9 @@ export default function Gallery(){
                                 <figure class="image is-2by3">
                                     <img src={prewedding} alt='Pre Wedding'/>                     
                                     <div class="overlay">
+                                    <Link to="./prewedding">
                                         <div class="text has-text-white">Pre Wedding</div>
+                                    </Link>
                                     </div>
                                 </figure>
                                 </div>

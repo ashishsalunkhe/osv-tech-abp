@@ -139,9 +139,9 @@ export default function Navbar(){
                           Babyshoots
                         </a>
                         {/* <hr class="navbar-divider "/> */}
-                        <a class="navbar-item has-text-primary-dark" href="./food">
+                        {/* <a class="navbar-item has-text-primary-dark" href="./food">
                           Food
-                        </a>    
+                        </a>     */}
                       </div>
                       {/* <hr class="navbar-divider"/> */}
                     </div>
