@@ -34,7 +34,7 @@ body {
 .social-icons a {
   padding: 10px;
   font-size: 24px;
-  color: #8199af;
+  color: teal;
 }
 .profile-pic {
   width: 96px;
@@ -86,8 +86,14 @@ body {
 /* .input{
   background-color: #1f2937;
 } */
-
-
+.footer{
+  /* Top Right Bottom Left */
+  padding: 1rem .5rem 1rem .5rem !important;
+}
+.text-dec{
+  color:aliceblue !important;
+  text-decoration: none !important;
+}
 .text {
   color: white;
   font-size: 35px;
