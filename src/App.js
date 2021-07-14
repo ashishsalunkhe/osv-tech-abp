@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './index.css';
 import Main from './components/Main.js';
 import Babyshoot from './components/babyshoots/Babyshoot';
