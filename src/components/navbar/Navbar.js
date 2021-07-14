@@ -1,45 +1,6 @@
 import React from 'react';
 import 'bulma';
-// // Get all "navbar-burger" elements
-// var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
 
-// // Check if there are any nav burgers
-// if ($navbarBurgers.length > 0) {
-
-//   // Add a click event on each of them
-//   $navbarBurgers.forEach(function ($el) {
-//     $el.addEventListener('click', function () {
-
-//       // Get the target from the "data-target" attribute
-//       var target = $el.dataset.target;
-//       var $target = document.getElementById(target);
-
-//       // Toggle the class on both the "navbar-burger" and the "navbar-menu"
-//       $el.classList.toggle('is-active');
-//       $target.classList.toggle('is-active');
-
-//     });
-//   });
-// }
-{/* <nav className={`navbar is-fixed-top ${this.state.nav && 'nav_white'}`} role="navigation">
-                    <div className="navbar-menu navbar-start">
-                        
-                            <Link to="./" className="navbar-item">
-                            Abhijeet Matkar Photography
-                            </Link>
-                       
-                        <a role="button" className="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
-                            <span aria-hidden="true"></span>
-                            <span aria-hidden="true"></span>
-                            <span aria-hidden="true"></span>
-                        </a>
-                    </div>
-                    <div className="navbar-menu navbar-end" id="navMenu">
-                        <a href="./#gallery" className="navbar-item">Gallery</a>
-                        <a href="./#about" className="navbar-item">About</a>
-                        <a href="./#contact" className="navbar-item">Contact</a>
-                    </div>
-                </nav> */}
 
 // class Navbar extends React.Component{
 
